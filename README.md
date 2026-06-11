@@ -1,6 +1,6 @@
 # Deep Learning and Applied AI 2025/2026 — Sapienza University of Rome
 
-# Correcting Shortcut Learning via Model Merging on CelebA
+Correcting Shortcut Learning via Model Merging on CelebA
  
 Anaïs Augé & Manal Ghorafi
 
