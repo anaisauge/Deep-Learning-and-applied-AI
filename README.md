@@ -8,7 +8,7 @@ Anaïs Augé & Manal Ghorafi
 
 This project investigates whether model merging can correct shortcut learning in a biased classifier without retraining. On CelebA, a ResNet-50 trained with standard ERM exploits the gender–blondness correlation, reaching 94.6% average accuracy but only 22.0% worst-group accuracy (WGA) on blond males.
 
-We train a lightweight specialist exclusively on male subgroups and merge it with the ERM model using four strategies. Our best method, Task Arithmetic, achieves 84.7% WGA — surpassing Group DRO (84.1%) at zero retraining cost.
+We train a lightweight specialist exclusively on male subgroups and merge it with the ERM model using four strategies. Our best method, Task Arithmetic, achieves 84.7% WGA — surpassing Group DRO (84.1%) with a reduced retraining cost.
 
 ## Methods
 
